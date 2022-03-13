@@ -15,3 +15,11 @@ if (myPay>myBills) {
     console.log ("i am in the positive!!!")
 } else {
     console.log ("i need a better job!!!");    }
+
+var sunnyWeather = true;
+
+if (sunnyWeather == true) {
+    console.log("lets play outside!!!")
+} else {
+    console.log("gotta stay in the house anf play video games")
+}
